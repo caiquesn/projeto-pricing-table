@@ -187,6 +187,7 @@ main #basic {
   border-radius: 14px;
   border: 1px solid var(--blue);
   font-size: 18px;
+  cursor: pointer;
 }
 
 #basic button {
